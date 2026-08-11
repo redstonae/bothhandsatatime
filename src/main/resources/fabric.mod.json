@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "bothhandsatatime",
+	"version": "${version}",
+	"name": "Both Hands at a Time",
+	"description": "§8if you're seeing this, it means that something went horribly wrong and the localization files had not loaded properly§r\nallows player to render both hands at a time",
+	"authors": [
+		"R. \"redstonae\""
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/user/redstonae",
+		"sources": "github repo here"
+	},
+	"custom": {
+		"modmenu": {
+			"links": {
+				"redstonae.bothhandsatatime.links.based": "https://github.com/MovTery/Visible-Offhand",
+				"modmenu.discord": "https://discord.com/invite/yhTHm3s5B9"
+			}
+		}
+	},
+
+	"license": "MIT",
+	"icon": "assets/bothhandsatatime/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"cu.redstonae.bothhandsatatime.bothhandsatatime"
+		],
+		"modmenu": [
+			"cu.redstonae.bothhandsatatime.config.modMenu"
+		]
+	},
+	"mixins": [
+		"bothhandsatatime.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.0",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*",
+		"owo-lib": ">=0.13.0"
+	}
+}
