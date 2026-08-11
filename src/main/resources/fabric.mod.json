@@ -3,7 +3,7 @@
 	"id": "bothhandsatatime",
 	"version": "${version}",
 	"name": "Both Hands at a Time",
-	"description": "§8if you're seeing this, it means that something went horribly wrong and the localization files had not loaded properly§r\nallows player to render both hands at a time",
+	"description": "Allows player to render Both Hands at a Time!\nwait a second...",
 	"authors": [
 		"R. \"redstonae\""
 	],

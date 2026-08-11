@@ -61,9 +61,8 @@ public class theShitThatYouGetToSeeOnScreen extends BaseOwoScreen<FlowLayout> {
                 )
         );
         root.child(
-                UIComponents.label(
-                        Text.translatable("redstonae.bothhandsatatime.config.title")
-                )
+                UIComponents.label(Text.translatable("redstonae.bothhandsatatime.config.title"))
+                        .shadow(true)
         );
 
         root.child(
