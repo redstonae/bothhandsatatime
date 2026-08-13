@@ -7,8 +7,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-// thank me later future me
-// import static cu.redstonae.bothhandsatatime.config.config.setupConfig;
+// note for anyone wanting to use this. Don't.
 
 public class config {
     static String configName = "bothhandsatatime";
@@ -19,7 +18,7 @@ public class config {
 
     public static String[] configs = new String[69];
     // give me a break, alright. it was between "69" and signed 32 bit int limit, and i chose the funny option
-    // just realised that the way i do configs may lead to crashes, due to trying to reach an out of bounds address. egh, to fix when it actually becomes a problem/someone is cheeky enough to report it (i see you reading the file, you know...)
+    // just realised that the way i do configs may lead to crashes, due to trying to reach an out of bounds address. egh, to fix when it actually becomes a problem/someone is cheeky enough to report it (i see you...)
 
     public static void setupConfig(){
         try {
