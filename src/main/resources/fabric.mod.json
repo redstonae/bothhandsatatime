@@ -9,7 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/bothhandsatatime",
-		"sources": "https://github.com/redstonae/bothhandsatatime"
+		"sources": "https://github.com/redstonae/bothhandsatatime",
+		"issues": "https://github.com/redstonae/bothhandsatatime/issues"
 	},
 	"custom": {
 		"modmenu": {
