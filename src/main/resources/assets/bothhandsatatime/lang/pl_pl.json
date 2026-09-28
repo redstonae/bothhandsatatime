@@ -1,7 +1,7 @@
 {
-  "modmenu.descriptionTranslation.bothhandsatatime": "Pozwala graczowi na renderowanie obu łap na raz!\n§8ten żart nie ma sensu po polsku...",
-  "redstonae.bothhandsatatime.config.title": "Both Hands at a Time: Opcj§me§ra",
+  "modmenu.descriptionTranslation.bothhandsatatime": "Pozwala graczowi na renderowanie obu rąk na raz!\n§8ten żart nie ma sensu po polsku...",
+  "redstonae.bothhandsatatime.config.title": "Both Hands at a Time: Opcj§me§ra", //the "Both Hands at a Time" text here should not be change, unless for a very good reason (see lolcat)
   "redstonae.bothhandsatatime.links.based": "\"Zforkowane\" z",
-  "redstonae.bothhandsatatime.button.one_hand": "handsAtATime: Pojedyncza",
-  "redstonae.bothhandsatatime.button.both_hands": "handsAtATime: Obie"
+  "redstonae.bothhandsatatime.button.one_hand": "ręceNaRaz: Pojedyncza",
+  "redstonae.bothhandsatatime.button.both_hands": "ręceNaRaz: Obie" //"handsAtATime" text however can and should be translated, for easier understanding
 }

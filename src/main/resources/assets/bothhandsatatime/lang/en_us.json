@@ -1,4 +1,5 @@
 {
+    //see pl_pl.json for rought translation guidelines
     "modmenu.descriptionTranslation.bothhandsatatime": "Allows player to render Both Hands at a Time!\n§8wait a second...",
     "redstonae.bothhandsatatime.config.title": "Both Hands at a Time: Option§ms",
     "redstonae.bothhandsatatime.links.based": "\"Forked\" from",
